@@ -74,9 +74,9 @@ const CardSection = ({ data }) => {
             <div className="w-96 h-px left-[54px] top-[62px] absolute border border-slate-800"></div>
           </div>
         </div>
-        <div className="w-16 h-9 rounded-lg border border-indigo-400 border-opacity-40 absolute bottom-0 right-0">
+        <div className="w-16 h-9 rounded-lg border border-indigo-400 border-opacity-40 absolute bottom-0 left-56 ">
           {/* Modified className */}
-          <div className="text-indigo-400 text-base font-medium font-['Poppins'] leading-relaxed">
+          <div className="text-indigo-400 p-1 ml-3 text-base font-medium font-['Poppins'] leading-relaxed">
             Pay
           </div>
         </div>

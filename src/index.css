@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  background: rgb(0, 0, 0);
+  background: rgba(26, 36, 64, 1); 
+}
+
+
+

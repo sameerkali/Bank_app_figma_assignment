@@ -11,7 +11,7 @@ export default function History() {
           - $43.00
         </div>
         <div className="w-[68px] h-[68px] left-[-13px] bottom-[5px] absolute">
-          <img src="../../public/histoy/3.svg" />
+          <img src="/histoy/3.svg" />
         </div>
         <div className="w-14 h-11 left-[54px] top-0 absolute">
           <div className="left-0 top-0 absolute text-white text-base font-medium font-['Poppins'] leading-relaxed tracking-tight">
@@ -28,7 +28,7 @@ export default function History() {
           + $1443.00
         </div>
         <div className="w-[68px] h-[68px] left-[-13px] bottom-[5px] absolute">
-          <img src="../../public/histoy/redicon4x.png" />
+          <img src="/histoy/redicon4x.png" />
         </div>
         <div className="w-28 h-11 left-[54px] top-0 absolute">
           <div className="left-0 top-0 absolute text-white text-base font-medium font-['Poppins'] leading-relaxed tracking-tight">
@@ -45,7 +45,7 @@ export default function History() {
           - $467.00
         </div>
         <div className="w-[68px] h-[68px] left-[-13px] bottom-[5px] absolute">
-          <img src="../../public/histoy/3.svg" />
+          <img src="/histoy/3.svg" />
         </div>
         <div className="w-14 h-11 left-[54px] top-0 absolute">
           <div className="left-0 top-0 absolute text-white text-base font-medium font-['Poppins'] leading-relaxed tracking-tight">
@@ -62,7 +62,7 @@ export default function History() {
           - $43.00
         </div>
         <div className="w-[68px] h-[68px] left-[-13px] bottom-[5px] absolute">
-          <img src="../../public/histoy/3.svg" />
+          <img src="/histoy/3.svg" />
         </div>
         <div className="w-14 h-11 left-[54px] top-0 absolute">
           <div className="left-0 top-0 absolute text-white text-base font-medium font-['Poppins'] leading-relaxed tracking-tight">
@@ -79,7 +79,7 @@ export default function History() {
           - $2467.00
         </div>
         <div className="w-[68px] h-[68px] left-[-13px] bottom-[5px] absolute">
-          <img src="../../public/histoy/redicon4x.png" />
+          <img src="/histoy/redicon4x.png" />
         </div>
         <div className="w-28 h-11 left-[54px] top-0 absolute">
           <div className="left-0 top-0 absolute text-white text-base font-medium font-['Poppins'] leading-relaxed tracking-tight">
@@ -96,7 +96,7 @@ export default function History() {
           - $12.00
         </div>
         <div className="w-[68px] h-[68px] left-[-13px] bottom-[5px] absolute">
-          <img src="../../public/histoy/redicon4x.png" />
+          <img src="/histoy/redicon4x.png" />
         </div>
         <div className="w-28 h-11 left-[54px] top-0 absolute">
           <div className="left-0 top-0 absolute text-white text-base font-medium font-['Poppins'] leading-relaxed tracking-tight">
@@ -119,7 +119,7 @@ export default function History() {
           + $143.00
         </div>
         <div className="w-[68px] h-[68px] left-[-13px] bottom-[5px] absolute">
-          <img src="../../public/histoy/redicon4x.png" />
+          <img src="/histoy/redicon4x.png" />
         </div>
         <div className="w-28 h-11 left-[54px] top-0 absolute">
           <div className="left-0 top-0 absolute text-white text-base font-medium font-['Poppins'] leading-relaxed tracking-tight">
@@ -137,7 +137,7 @@ export default function History() {
           - $467.00
         </div>
         <div className="w-[68px] h-[68px] left-[-13px] bottom-[5px] absolute">
-          <img src="../../public/histoy/yello.png" />
+          <img src="/histoy/yello.png" />
         </div>
         <div className="w-24 h-11 left-[54px] top-0 absolute">
           <div className="left-0 top-0 absolute text-white text-base font-medium font-['Poppins'] leading-relaxed tracking-tight">
@@ -155,7 +155,7 @@ export default function History() {
         </div>
         <img
           className="w-9 h-9 left-[319px] top-[94px] absolute rounded-full"
-          src="../../public/page01/profile.png"
+          src="/page01/profile.png"
         />
       </div>
       <Header />

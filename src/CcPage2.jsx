@@ -6,19 +6,19 @@ const dataOfCards = [
     name: "Mobile",
     data1: "Maria",
     data2: "+ $143.00",
-    image: "../public/ccPage/arrowred.png"
+    image: "/ccPage/arrowred.png"
   },
   {
     name: "Internet and TV",
     data1: "Online",
     data2: "- $467.00",
-    image: "../public/ccPage/music.png"
+    image: "/ccPage/music.png"
   },
   {
     name: "Traffic fines",
     data1: "Service",
     data2: "- $469.00",
-    image: "../public/ccPage/taxi.png"
+    image: "/ccPage/taxi.png"
   }
 ];
 
@@ -29,7 +29,7 @@ export default function CcPage2() {
       <div className="w-5 h-5 ml-5 mt-5 relative">
       <Link to="/">
 
-        <img src="../public/ccPage/arrow.png" />
+        <img src="/ccPage/arrow.png" />
       </Link>
       </div>
       <div className="w-44 left-[16px] top-[91px] absolute text-white text-3xl font-bold font-['Poppins']  leading-10 tracking-tight">
@@ -37,7 +37,7 @@ export default function CcPage2() {
           <p>Salary</p> <p> Cards</p>
         </div>
       </div>
-      <img className="mt-32 ml-5 w-80" src="../public/ccPage/card02.png" />
+      <img className="mt-32 ml-5 w-80" src="/ccPage/card02.png" />
       <div className="flex flex-row space-x-40 ml-5 mt-9">
         <div>
           <div className="text-slate-400 text-base font-bold font-['Poppins'] leading-relaxed tracking-tight">
@@ -51,11 +51,11 @@ export default function CcPage2() {
         <Link to="/history">
 
           <div className="w-14 h-14 rounded-lg border border-white border-opacity-20">
-            <img  src="../public/page01/History.svg"/>
+            <img  src="/page01/History.svg"/>
           </div>
         </Link>
           <div className="w-14 h-14 rounded-lg border border-white border-opacity-20">
-          <img className="p-4" src="../public/page01/share.svg"/>
+          <img className="p-4" src="/page01/share.svg"/>
 
           </div>
         </div>

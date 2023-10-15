@@ -6,31 +6,31 @@ const dataOfCards = [
     name: "Mobile",
     data1: "The debt is",
     data2: "$34.00",
-    image: "../../public/catalogue/call.png"
+    image: "/catalogue/call.png"
   },
   {
     name: "Internet and TV",
     data1: "The debt is",
     data2: "$21.00",
-    image: "../../public/catalogue/wifi.png"
+    image: "/catalogue/wifi.png"
   },
   {
     name: "Traffic fines",
     data1: "The debt is",
     data2: "$1221.00",
-    image: "../../public/catalogue/car.png"
+    image: "/catalogue/car.png"
   },
   {
     name: "Housing and services",
     data1: "The debt is",
     data2: "$0.00",
-    image: "../../public/catalogue/home.png"
+    image: "/catalogue/home.png"
   },
   {
     name: "Utility payment",
     data1: "The debt is",
     data2: "$442.00",
-    image: "../../public/catalogue/electricity.png"
+    image: "/catalogue/electricity.png"
   },
   
 ];
@@ -95,7 +95,7 @@ const Upperpart = () => {
       </div>
       <img
         className="w-9 h-9 left-[319px] top-[94px] absolute rounded-full"
-        src="../../public/page01/profile.png"
+        src="/page01/profile.png"
       />
     </div>
   );

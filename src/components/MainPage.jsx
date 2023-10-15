@@ -9,15 +9,14 @@ export default function MainPage() {
         <div className="w-96 h-36 left-0 top-0 absolute">
           <div className="w-44 left-[16px] top-[91px] absolute text-white text-3xl font-bold font-['Poppins']  leading-10 tracking-tight">
             <div>
-                <p>Bank</p> <p> Cards</p>
+              <p>Bank</p> <p> Cards</p>
             </div>
           </div>
           <img
             className="w-9 h-9 left-[319px] top-[94px] absolute rounded-full"
-            src="../../public/page01/profile.png"
+            src="/page01/profile.png"
           />
         </div>
-        {/* Header */}
         <Header />
         <div className="left-[20px] top-[170px] absolute text-slate-400 text-base font-bold font-['Poppins'] leading-relaxed tracking-tight">
           Balance
@@ -26,14 +25,11 @@ export default function MainPage() {
           $2,748.00
         </div>
 
-        {/* Image corousel */}
-        <ImageCarousel/>
-        
+        <ImageCarousel />
+
         {/* footer */}
-        <Footer/>
+        <Footer />
       </div>
     </>
   );
 }
-
-

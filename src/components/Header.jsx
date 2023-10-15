@@ -8,11 +8,11 @@ export default function Header() {
         </div>
         <img
           className="w-4 h-2.5 left-[316px] top-[17.33px] absolute"
-          src="../../public/page01/Wifi.png"
+          src="/page01/Wifi.png"
         />
         <img
           className="w-4 h-2.5 left-[294px] top-[17.67px] absolute"
-          src="../../public/page01/Cellular Connection.png"
+          src="/page01/Cellular Connection.png"
         />
         <div className="w-14 h-5 left-[21px] top-[7px] absolute">
           <div className="w-14 left-0 top-[7px] absolute text-center text-white text-base font-black font-['Poppins']">

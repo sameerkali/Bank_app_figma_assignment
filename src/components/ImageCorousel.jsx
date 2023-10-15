@@ -6,12 +6,12 @@ import { Link } from "react-router-dom";
 const images = [
   {
     id: 1,
-    url: "../../public/page01/card11.png",
+    url: "/page01/card11.png",
     link: "/ccPage1"
   },
   {
     id: 2,
-    url: "../../public/page01/card22.png",
+    url: "/page01/card22.png",
     link: "/ccPage2"
   }
 ];

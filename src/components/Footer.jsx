@@ -8,22 +8,22 @@ export default function Footer() {
         <div className="w-80 rounded-3xl bg-slate-700 h-14 left-[19px] top-[13px] absolute ">
           <Link to="/">
             <div className="w-14 h-14  left-[279px] top-0 absolute">
-              <img className="bg-slate-700" src="../../public/page01/Menu.svg" />
+              <img className="bg-slate-700" src="/page01/Menu.svg" />
             </div>
           </Link>
           <Link to="/history">
             <div className="w-14  h-14 left-[186px] top-0 absolute">
-              <img className="bg-slate-700" src="../../public/page01/History.svg" />
+              <img className="bg-slate-700" src="/page01/History.svg" />
             </div>
           </Link>
           <Link to="/catalague">
             <div className=" w-14 h-14 left-[93px] top-0 absolute">
-              <img className="bg-slate-700"  src="../../public/page01/Scan.svg" />
+              <img className="bg-slate-700"  src="/page01/Scan.svg" />
             </div>
           </Link>
           <Link to="/">
             <div className="w-14 h-14 left-0 top-0 absolute">
-              <img className="bg-slate-700" src="../../public/page01/Home.svg" />
+              <img className="bg-slate-700" src="/page01/Home.svg" />
             </div>
           </Link>
         </div>
